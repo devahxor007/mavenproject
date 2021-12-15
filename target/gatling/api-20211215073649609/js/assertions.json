@@ -1,0 +1,10 @@
+{
+  "simulation": "org.Simulations.api",
+  "simulationId": "api",
+  "start": 1639553809609,
+  "description": "",
+  "scenarios": ["Get-User"],
+  "assertions": [
+
+  ]
+}
